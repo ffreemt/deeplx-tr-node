@@ -42,4 +42,4 @@ console.log(supportedLanguages)
 
 ## Acknowledgment
 
-All credit goes to 小.同学 while mistakes are all mine。
+All credit goes to 小.同学 while mistakes are all mine.
